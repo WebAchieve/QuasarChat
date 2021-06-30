@@ -1,0 +1,40 @@
+{
+  "chats" : {
+    "H0JUGjOAuaUjzt00ehm3lT5hi7s1" : {
+      "Mz3ubgfuFzN6DQu2c3DGgFQFeiF2" : {
+        "MESSAGEID1" : {
+          "from" : "them",
+          "text" : "Привет как дела?"
+        },
+        "MESSAGEID2" : {
+          "from" : "me",
+          "text" : "Все отлично а у теья?"
+        }
+      }
+    },
+    "Mz3ubgfuFzN6DQu2c3DGgFQFeiF2" : {
+      "H0JUGjOAuaUjzt00ehm3lT5hi7s1" : {
+        "MESSAGEID1" : {
+          "from" : "me",
+          "text" : "Привет как дела?"
+        },
+        "MESSAGEID2" : {
+          "from" : "them",
+          "text" : "Все отлично а у теья?"
+        }
+      }
+    }
+  },
+  "users" : {
+    "H0JUGjOAuaUjzt00ehm3lT5hi7s1" : {
+      "email" : "D@mail.com",
+      "name" : "Дерижопль",
+      "online" : true
+    },
+    "Mz3ubgfuFzN6DQu2c3DGgFQFeiF2" : {
+      "email" : "alex@mail.com",
+      "name" : "Лешка Картошка",
+      "online" : false
+    }
+  }
+}
